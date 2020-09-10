@@ -1,11 +1,11 @@
 # Site settings
-author: T S
-title: 
+author: T Shipley
+title: Coding With Flatiron
 header-img: img/home-bg.png
 email: taneymail@gmail.com
-copyright_name: T S
+copyright_name: T Shipley
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Adventures learning how to code
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  UNix202020
